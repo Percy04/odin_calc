@@ -28,12 +28,12 @@ input {
     flex-direction: column;
     background-color: #964B00;
     /* flex-wrap: wrap; */
-    padding: 23px;
+    padding: 10px;
     position: relative;
     width: 400px;
-    top: 100px;
-    left: 700px;
-    border-radius: 10px;
+    top: 50px;
+    left: 500px;
+    border-radius: 5px;
 }
 
 #display {
